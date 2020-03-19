@@ -28,7 +28,7 @@ If you would like to connect your store to this example, rename `ressources/asse
 If you would like to run browsersync, please update the proxy to your local environement URL:
 ```js
 mix.browserSync({
-    proxy: 'localhostXXX'
+    proxy: 'localhost:8000'
 });
 ```
 

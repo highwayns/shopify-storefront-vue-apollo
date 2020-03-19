@@ -28,7 +28,7 @@
             </div>
 
             <div class="App__title">
-                <h1>{{shop.name}}: Vue Example</h1>
+                <h1>よこそ、{{shop.name}}へ</h1>
                 <h2>{{shop.description}}</h2>
             </div>
         </header>
